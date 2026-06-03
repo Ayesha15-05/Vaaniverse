@@ -230,4 +230,8 @@ Uses **Google TTS** for accurate pronunciation of regional languages.
 * Transformer-based recognition
 * Mobile & web deployment
 
+
+  DEMONSTRATION SCREENSHOTS
+
+  Screenshot 2026-04-04 093440 Screenshot 2026-04-04 093456
 ---
