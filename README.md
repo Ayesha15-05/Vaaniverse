@@ -233,5 +233,7 @@ Uses **Google TTS** for accurate pronunciation of regional languages.
 
   DEMONSTRATION SCREENSHOTS
 
-  Screenshot 2026-04-04 093440 Screenshot 2026-04-04 093456
+<img width="1602" height="1040" alt="Screenshot 2026-02-18 001221" src="https://github.com/user-attachments/assets/ccdfec2e-a5d1-4e53-990f-b5acc5aa97bf" />
+<img width="1602" height="1040" alt="Screenshot 2026-03-01 163744" src="https://github.com/user-attachments/assets/5ff5bfa6-73da-417e-ba4d-80e094b8010d" />
+
 ---
